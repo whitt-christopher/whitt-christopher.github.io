@@ -1,4 +1,26 @@
-html, body {
-  height: 100%;
-  width: 100%;
-}
+.itembox{border:solid; border-radius:10px 10px 10px; box-shadow:10px 10px; background-color:tan; color:maroon; padding:10px;}
+ 
+.favorite{border:dotted; border-radius:10px 10px 10px; box-shadow:10px 10px; background-color:#0000f0; color:black; padding:10px;}
+
+div{margin:auto; width:90%;}
+ 
+nav{background-color:#a39f9f; color:black; border:solid; border-radius:10px 10px 10px; padding:10px 10px;}
+ 
+main{background-color:lightgray;}
+   
+body{background-color:lightgray; width:80%;}
+     
+p{background-color:tan; font-family:Arial;color:black; }
+      
+h1{background-color:lightgray; font-family:Times New Roman; color:black; text-align:center;}
+       
+h2{font-family:Georgia; color:black; text-align:center}
+          
+h3{background-color: tan; font-family: Garamond; color: black; font-style:italic; text-align:center}
+            
+footer{background-color:#00001a; font-style:italic; color:pink}
+
+ul.a{list-style-type: square;}
+
+li.a{list-style-type:none; display:inline;}
+
